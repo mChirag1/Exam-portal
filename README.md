@@ -66,4 +66,4 @@ Follow the steps below to set up and run the Exam Portal locally.
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
 
 
-**Developed by [NikKnez](https://github.com/NikKnez)**
+**Developed by [Chirag]**
